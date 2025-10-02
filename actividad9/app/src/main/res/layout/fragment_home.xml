@@ -11,6 +11,13 @@
         android:textSize="24sp"
         android:textStyle="bold"/>
 
+    <ImageView
+        android:id="@+id/homeImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"
+        android:src="@drawable/dashboard"/>
+
 
 
 </FrameLayout>
